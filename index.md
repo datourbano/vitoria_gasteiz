@@ -15,7 +15,7 @@
 
   **_Este repositorio no es una fuente de datos oficial_**.
   
-  Los datos incluidos en el mismo proceden en su mayor parte del [[Open data Vitoria-Gasteiz](http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada?idioma=es), trabajos personales de toma de datos y digitalización de documentos públicos.
+  Los datos incluidos en el mismo proceden en su mayor parte del [Open data Vitoria-Gasteiz](http://www.vitoria-gasteiz.org/j34-01w/catalogo/portada?idioma=es), trabajos personales de toma de datos y digitalización de documentos públicos.
   
   La información contenida en los archivos originales, ha sido sometida a distintos procesos y tratamientos para su expresión en el sistema geográfico de referencia OGC CRS:84 ([EPSG:4326](https://epsg.io/4326) lon-lat)  y formato [GeoJSON](http://geojson.org/).
 
